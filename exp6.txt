@@ -1,0 +1,3 @@
+hello from git
+i forked this repository for the git experiment 6 ,
+and now i'm creating a file in git forked repository .
